@@ -31,8 +31,7 @@ function Footer() {
                                         <li className='mt-3 hover:text-blue-600 cursor-pointer'>लुम्बिनी</li>
                                         <li className='mt-3 hover:text-blue-600 cursor-pointer'>कर्णाली</li>
                                         <li className='mt-3 hover:text-blue-600 cursor-pointer'>सुदूरपश्चिम</li>
-                                        <li className='mt-3 hover:text-blue-600 cursor-pointer'>अध्यक्ष:</li>
-                                        <li className='mt-3 text-xl text-red-600'>सचिन शेरचन</li>
+                                        <li className='mt-3 text-xl text-red-600'>अध्यक्ष:सचिन शेरचन</li>
                                     </ul>
                                 </div>
                                 <div className='lg:col-span-4'>
